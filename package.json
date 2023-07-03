@@ -1,0 +1,20 @@
+{
+  "name": "simple-node-api",
+  "version": "1.0.0",
+  "description": "Simple API using Node.js with Express framework.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "abimo2020"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Express"
+  ],
+  "author": "abimo2020",
+  "license": "ISC"
+}
